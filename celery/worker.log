@@ -1,0 +1,128 @@
+Completed task test_sleep with int 0
+Completed task test_sleep with int 2
+Completed task test_sleep with int 1
+Completed task test_sleep with int 4
+Completed task test_sleep with int 10
+Completed task test_sleep with int 8
+Completed task test_sleep with int 3
+Completed task test_sleep with int 7
+Completed task test_sleep with int 11
+Completed task test_sleep with int 5
+Completed task test_sleep with int 17
+Completed task test_sleep with int 15
+ERROR:celery.worker.job:Task bi.rogerrabbit.tasks.test_sleep[2988a0a0-55a6-4a07-9379-b83a80c489cc] raised unexpected: WorkerLostError('Worker exited prematurely: signal 15 (SIGTERM).',)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/billiard/pool.py", line 1175, in mark_as_worker_lost
+    human_status(exitcode)),
+WorkerLostError: Worker exited prematurely: signal 15 (SIGTERM).
+ERROR:celery.worker.job:Task bi.rogerrabbit.tasks.test_sleep[248a2c7d-9cba-4b2a-878e-8b22170c7f6a] raised unexpected: WorkerLostError('Worker exited prematurely: signal 15 (SIGTERM).',)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/billiard/pool.py", line 1175, in mark_as_worker_lost
+    human_status(exitcode)),
+WorkerLostError: Worker exited prematurely: signal 15 (SIGTERM).
+ERROR:celery.worker.job:Task bi.rogerrabbit.tasks.test_sleep[6f7ed52a-a608-4887-a5c6-2f069b38f5da] raised unexpected: WorkerLostError('Worker exited prematurely: signal 15 (SIGTERM).',)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/billiard/pool.py", line 1175, in mark_as_worker_lost
+    human_status(exitcode)),
+WorkerLostError: Worker exited prematurely: signal 15 (SIGTERM).
+ERROR:celery.worker.job:Task bi.rogerrabbit.tasks.test_sleep[7b01ba56-1a3f-4de5-bd06-f88a390080df] raised unexpected: WorkerLostError('Worker exited prematurely: signal 15 (SIGTERM).',)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/billiard/pool.py", line 1175, in mark_as_worker_lost
+    human_status(exitcode)),
+WorkerLostError: Worker exited prematurely: signal 15 (SIGTERM).
+ERROR:celery.worker.job:Task bi.rogerrabbit.tasks.test_sleep[a7d27768-36b3-4705-bece-2fed22fe5ba1] raised unexpected: WorkerLostError('Worker exited prematurely: signal 15 (SIGTERM).',)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/billiard/pool.py", line 1175, in mark_as_worker_lost
+    human_status(exitcode)),
+WorkerLostError: Worker exited prematurely: signal 15 (SIGTERM).
+ERROR:celery.worker.job:Task bi.rogerrabbit.tasks.test_sleep[34f99dd1-88e8-408a-aa4f-abf6bbabcc9e] raised unexpected: WorkerLostError('Worker exited prematurely: signal 15 (SIGTERM).',)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/billiard/pool.py", line 1175, in mark_as_worker_lost
+    human_status(exitcode)),
+WorkerLostError: Worker exited prematurely: signal 15 (SIGTERM).
+Completed task test_sleep with int 24
+Completed task test_sleep with int 23
+Completed task test_sleep with int 36
+Completed task test_sleep with int 28
+Completed task test_sleep with int 50
+Completed task test_sleep with int 38
+Completed task test_sleep with int 67
+Completed task test_sleep with int 56
+Completed task test_sleep with int 97
+Completed task test_sleep with int 53
+Completed task test_sleep with int 27
+Completed task test_sleep with int 22
+Completed task test_sleep with int 59
+Completed task test_sleep with int 65
+Completed task test_sleep with int 61
+Completed task test_sleep with int 16
+Completed task test_sleep with int 25
+Completed task test_sleep with int 82
+Completed task test_sleep with int 35
+Completed task test_sleep with int 75
+Completed task test_sleep with int 44
+Completed task test_sleep with int 51
+Completed task test_sleep with int 54
+Completed task test_sleep with int 49
+Completed task test_sleep with int 71
+Completed task test_sleep with int 41
+Completed task test_sleep with int 78
+Completed task test_sleep with int 80
+Completed task test_sleep with int 96
+Completed task test_sleep with int 79
+Completed task test_sleep with int 21
+Completed task test_sleep with int 73
+Completed task test_sleep with int 40
+Completed task test_sleep with int 45
+Completed task test_sleep with int 62
+Completed task test_sleep with int 43
+Completed task test_sleep with int 72
+Completed task test_sleep with int 31
+Completed task test_sleep with int 92
+Completed task test_sleep with int 95
+Completed task test_sleep with int 34
+Completed task test_sleep with int 93
+Completed task test_sleep with int 39
+Completed task test_sleep with int 76
+Completed task test_sleep with int 47
+Completed task test_sleep with int 63
+Completed task test_sleep with int 81
+Completed task test_sleep with int 48
+Completed task test_sleep with int 87
+Completed task test_sleep with int 42
+Completed task test_sleep with int 89
+Completed task test_sleep with int 26
+Completed task test_sleep with int 99
+Completed task test_sleep with int 30
+Completed task test_sleep with int 57
+Completed task test_sleep with int 88
+Completed task test_sleep with int 60
+Completed task test_sleep with int 68
+Completed task test_sleep with int 66
+Completed task test_sleep with int 83
+Completed task test_sleep with int 90
+Completed task test_sleep with int 58
+Completed task test_sleep with int 74
+Completed task test_sleep with int 86
+Completed task test_sleep with int 20
+Completed task test_sleep with int 46
+Completed task test_sleep with int 52
+Completed task test_sleep with int 32
+Completed task test_sleep with int 98
+Completed task test_sleep with int 91
+Completed task test_sleep with int 12
+Completed task test_sleep with int 64
+Completed task test_sleep with int 77
+Completed task test_sleep with int 37
+Completed task test_sleep with int 70
+Completed task test_sleep with int 29
+ERROR:celery.worker.job:Task bi.rogerrabbit.tasks.test_sleep[cc1454d5-cd94-4482-89c3-bd0020c0451d] raised unexpected: WorkerLostError('Worker exited prematurely: signal 15 (SIGTERM).',)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/billiard/pool.py", line 1175, in mark_as_worker_lost
+    human_status(exitcode)),
+WorkerLostError: Worker exited prematurely: signal 15 (SIGTERM).
+Completed task test_sleep with int 55
+Completed task test_sleep with int 33
+Completed task test_sleep with int 84
+Completed task test_sleep with int 94
+Completed task test_sleep with int 85
